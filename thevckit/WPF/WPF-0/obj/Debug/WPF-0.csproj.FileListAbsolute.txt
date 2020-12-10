@@ -1,0 +1,17 @@
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\View\Pages\LoginPage.g.cs
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\App.g.cs
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0_MarkupCompile.cache
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0_MarkupCompile.lref
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\bin\Debug\WPF-0.exe.config
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\bin\Debug\WPF-0.exe
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\bin\Debug\WPF-0.pdb
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\View\Windows\MainWindow.g.cs
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\App.baml
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\View\Windows\MainWindow.baml
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\View\Pages\LoginPage.baml
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.g.resources
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF_0.Properties.Resources.resources
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.csproj.GenerateResource.cache
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.csproj.CoreCompileInputs.cache
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.exe
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.pdb

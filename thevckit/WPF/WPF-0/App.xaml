@@ -2,8 +2,25 @@
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:WPF_0"
-             StartupUri="MainWindow.xaml">
+             StartupUri="View/Windows/MainWindow.xaml">
     <Application.Resources>
-         
+        <Style TargetType="Button" x:Key="StyleButtonBack">
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Background" Value="LightYellow"/>
+        </Style>
+        <Style TargetType="Button" x:Key="StyleButtonDone">
+            <Setter Property="Background" Value="LightGreen"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Width" Value="100"/>
+        </Style>
+        <Style TargetType="TextBox" x:Key="StyleTextBoxSignIn">
+            <Setter Property="Width" Value="210"/>
+            <Setter Property="Margin" Value="10,0,0,0"/>
+        </Style>
+        <Style TargetType="PasswordBox" x:Key="StylePasswordBoxSignIn">
+            <Setter Property="Width" Value="210"/>
+            <Setter Property="Margin" Value="10,0,0,0"/>
+        </Style>
     </Application.Resources>
 </Application>

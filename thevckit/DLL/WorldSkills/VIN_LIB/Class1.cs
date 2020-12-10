@@ -8,5 +8,6 @@ namespace VIN_LIB
 {
     public class Class1
     {
+
     }
 }
