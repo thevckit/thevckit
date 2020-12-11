@@ -12,3 +12,4 @@ A:\HelloWorld\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.csproj.GenerateResourc
 A:\HelloWorld\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.csproj.CoreCompileInputs.cache
 A:\HelloWorld\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.exe
 A:\HelloWorld\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.pdb
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.csprojAssemblyReference.cache

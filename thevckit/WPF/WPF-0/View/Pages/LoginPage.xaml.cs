@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Threading;
+using WPF_0.View.Pages.GetAccess;
 
 namespace WPF_0.View.Pages
 {
@@ -96,6 +97,11 @@ namespace WPF_0.View.Pages
                         MessageBoxButton.OK, MessageBoxImage.Error );
                 }
             }
+        }
+
+        private void btn_GetAccess_Click( object sender, RoutedEventArgs e )
+        {
+            NavigationService.Navigate( new GetAccessPage() );
         }
     }
 }

@@ -3,3 +3,4 @@ A:\HelloWorld\thevckit\thevckit\DLL\WorldSkills\REG_MARK_LIB\bin\Debug\REG_MARK_
 A:\HelloWorld\thevckit\thevckit\DLL\WorldSkills\REG_MARK_LIB\obj\Debug\REG_MARK_LIB.csproj.CoreCompileInputs.cache
 A:\HelloWorld\thevckit\thevckit\DLL\WorldSkills\REG_MARK_LIB\obj\Debug\REG_MARK_LIB.dll
 A:\HelloWorld\thevckit\thevckit\DLL\WorldSkills\REG_MARK_LIB\obj\Debug\REG_MARK_LIB.pdb
+A:\HelloWorld\thevckit\thevckit\DLL\WorldSkills\REG_MARK_LIB\obj\Debug\REG_MARK_LIB.csprojAssemblyReference.cache

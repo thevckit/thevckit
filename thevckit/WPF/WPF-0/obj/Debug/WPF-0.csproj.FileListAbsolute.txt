@@ -16,3 +16,5 @@ A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.csproj.CoreCompileInpu
 A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.exe
 A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.pdb
 A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.csprojAssemblyReference.cache
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\View\Pages\GetAccess\GetAccessPage.g.cs
+A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\View\Pages\GetAccess\GetAccessPage.baml

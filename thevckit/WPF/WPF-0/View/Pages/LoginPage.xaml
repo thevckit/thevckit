@@ -45,6 +45,16 @@
                             Content="LogIn"
                             Click="btn_Login_Click"/>
                 </StackPanel>
+                <StackPanel Margin="0,10,0,0"
+                            HorizontalAlignment="Right">
+                    <Button Content="Get Access"
+                            FontSize="14"
+                            FontFamily="Yu Gothic UI"
+                            Background="LightBlue"
+                            Width="210"
+                            x:Name="btn_GetAccess"
+                            Click="btn_GetAccess_Click"/>
+                </StackPanel>
             </StackPanel>
         </StackPanel>
     </Grid>
