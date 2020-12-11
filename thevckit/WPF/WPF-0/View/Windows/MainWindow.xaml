@@ -13,21 +13,45 @@
         </Grid.RowDefinitions>
 
         <Grid Grid.Row="0">
-            <StackPanel Orientation="Horizontal">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
                 <Image Source="A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\Resource\wsrlogo-02.png"
                        Stretch="UniformToFill" 
                        Width="125"
                        Height="80"
                        HorizontalAlignment="Left"
                        Margin="10,0,0,0"/>
-                <StackPanel HorizontalAlignment="Right"
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Margin="0,0,0,0" 
+                            Grid.Column="0"
+                            Orientation="Horizontal"
+                            HorizontalAlignment="Center"
                             VerticalAlignment="Center">
+                    <TextBlock Text="Window: "
+                               FontSize="20"
+                               FontFamily="Microsoft YaHei UI"/>
                     <TextBlock Text="{Binding ElementName=frmObject, Path=Content.Title}"
-                               FontSize="14"
-                               FontFamily="Microsoft YaHei UI"
-                               Margin="100,0,0,0"/>
+                               FontSize="20"
+                               FontFamily="Microsoft YaHei UI"/>
                 </StackPanel>
-            </StackPanel>
+                <StackPanel Grid.Column="1" 
+                            Margin="10,0,0,0"
+                            VerticalAlignment="Center" 
+                            HorizontalAlignment="Center">
+                    <TextBlock x:Name="txb_Time"
+                               Text="Time"
+                               FontSize="20" 
+                               FontFamily="Microsoft YaHei UI"/>
+                </StackPanel>
+            </Grid>
         </Grid>
         <Grid Grid.Row="1">
             <Frame x:Name="frmObject" NavigationUIVisibility="Hidden"/>
