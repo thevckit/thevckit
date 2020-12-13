@@ -1,0 +1,6 @@
+H:\C#\thevckit\thevckit\ConsoleApp\APP-0\APP-0\bin\Debug\APP-0.exe.config
+H:\C#\thevckit\thevckit\ConsoleApp\APP-0\APP-0\bin\Debug\APP-0.exe
+H:\C#\thevckit\thevckit\ConsoleApp\APP-0\APP-0\bin\Debug\APP-0.pdb
+H:\C#\thevckit\thevckit\ConsoleApp\APP-0\APP-0\obj\Debug\APP-0.csproj.CoreCompileInputs.cache
+H:\C#\thevckit\thevckit\ConsoleApp\APP-0\APP-0\obj\Debug\APP-0.exe
+H:\C#\thevckit\thevckit\ConsoleApp\APP-0\APP-0\obj\Debug\APP-0.pdb

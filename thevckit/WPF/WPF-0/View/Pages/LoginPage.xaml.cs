@@ -1,18 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
-using System.Windows.Shapes;
 using System.Windows.Threading;
+using WPF_0.Context;
 using WPF_0.View.Pages.GetAccess;
 
 namespace WPF_0.View.Pages
@@ -24,6 +16,7 @@ namespace WPF_0.View.Pages
     {
         private static int errorCount = 3;
         private DispatcherTimer BlockTimer = new DispatcherTimer();
+
         public LoginPage( )
         {
             InitializeComponent();
@@ -67,6 +60,7 @@ namespace WPF_0.View.Pages
                 Properties.Settings.Default.Save();
             }
         }
+
         private void btn_Cancel_Click( object sender, RoutedEventArgs e )
         {
             Application.Current.Shutdown();
@@ -74,10 +68,17 @@ namespace WPF_0.View.Pages
 
         private void btn_Login_Click( object sender, RoutedEventArgs e )
         {
-            if (txb_Username.Text == "thevckit" & psb_Password.Password == "1234")
+            var currentUser = dbContext.db.SignIns.FirstOrDefault( item => item.Username == txb_Username.Text &&
+             item.Password == item.Password );
+            if (currentUser != null)
             {
-                MessageBox.Show( "Success!" );
-                RemberLoginUser();
+                switch (currentUser.IDRole)
+                {
+                    case "A":
+                        MessageBox.Show( "Success!" );
+                        RemberLoginUser();
+                        break;
+                }
             }
             else
             {

@@ -4,3 +4,9 @@ A:\HelloWorld\thevckit\thevckit\DLL\WorldSkills\VIN_LIB\obj\Debug\VIN_LIB.csproj
 A:\HelloWorld\thevckit\thevckit\DLL\WorldSkills\VIN_LIB\obj\Debug\VIN_LIB.dll
 A:\HelloWorld\thevckit\thevckit\DLL\WorldSkills\VIN_LIB\obj\Debug\VIN_LIB.pdb
 A:\HelloWorld\thevckit\thevckit\DLL\WorldSkills\VIN_LIB\obj\Debug\VIN_LIB.csprojAssemblyReference.cache
+H:\C#\thevckit\thevckit\DLL\WorldSkills\VIN_LIB\bin\Debug\VIN_LIB.dll
+H:\C#\thevckit\thevckit\DLL\WorldSkills\VIN_LIB\bin\Debug\VIN_LIB.pdb
+H:\C#\thevckit\thevckit\DLL\WorldSkills\VIN_LIB\obj\Debug\VIN_LIB.csprojAssemblyReference.cache
+H:\C#\thevckit\thevckit\DLL\WorldSkills\VIN_LIB\obj\Debug\VIN_LIB.csproj.CoreCompileInputs.cache
+H:\C#\thevckit\thevckit\DLL\WorldSkills\VIN_LIB\obj\Debug\VIN_LIB.dll
+H:\C#\thevckit\thevckit\DLL\WorldSkills\VIN_LIB\obj\Debug\VIN_LIB.pdb

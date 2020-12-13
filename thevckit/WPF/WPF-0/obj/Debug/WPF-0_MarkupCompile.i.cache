@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\obj\Debug\
+H:\C#\thevckit\thevckit\WPF\WPF-0\obj\Debug\
 WPF_0
 none
 false
 DEBUG;TRACE
-A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\App.xaml
+H:\C#\thevckit\thevckit\WPF\WPF-0\App.xaml
 3798350886
-
-8-780082894
-13-1505183044
+22079455622
+281984278857
+18-1796548654
 View\Pages\GetAccess\GetAccessPage.xaml;View\Windows\MainWindow.xaml;View\Pages\LoginPage.xaml;
 
-True
+False
 

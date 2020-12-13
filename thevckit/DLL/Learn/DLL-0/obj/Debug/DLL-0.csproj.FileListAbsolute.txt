@@ -4,3 +4,9 @@ A:\HelloWorld\thevckit\thevckit\DLL\Learn\DLL-0\obj\Debug\DLL-0.csprojAssemblyRe
 A:\HelloWorld\thevckit\thevckit\DLL\Learn\DLL-0\obj\Debug\DLL-0.csproj.CoreCompileInputs.cache
 A:\HelloWorld\thevckit\thevckit\DLL\Learn\DLL-0\obj\Debug\DLL-0.dll
 A:\HelloWorld\thevckit\thevckit\DLL\Learn\DLL-0\obj\Debug\DLL-0.pdb
+H:\C#\thevckit\thevckit\DLL\Learn\DLL-0\bin\Debug\DLL-0.dll
+H:\C#\thevckit\thevckit\DLL\Learn\DLL-0\bin\Debug\DLL-0.pdb
+H:\C#\thevckit\thevckit\DLL\Learn\DLL-0\obj\Debug\DLL-0.csprojAssemblyReference.cache
+H:\C#\thevckit\thevckit\DLL\Learn\DLL-0\obj\Debug\DLL-0.csproj.CoreCompileInputs.cache
+H:\C#\thevckit\thevckit\DLL\Learn\DLL-0\obj\Debug\DLL-0.dll
+H:\C#\thevckit\thevckit\DLL\Learn\DLL-0\obj\Debug\DLL-0.pdb

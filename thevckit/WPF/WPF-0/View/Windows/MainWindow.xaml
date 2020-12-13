@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_0"
         mc:Ignorable="d" WindowStartupLocation="CenterScreen"
+        MaxHeight="550" MaxWidth="900" MinHeight="450" MinWidth="750"
         Title="Academy WorldSkills 2020" Height="450" Width="800">
     <Grid>
         <Grid.RowDefinitions>
@@ -18,7 +19,7 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <Grid Grid.Column="0">
-                <Image Source="A:\HelloWorld\thevckit\thevckit\WPF\WPF-0\Resource\wsrlogo-02.png"
+                <Image Source="/Resource/wsrlogo-02.png"
                        Stretch="UniformToFill" 
                        Width="125"
                        Height="80"
@@ -36,6 +37,7 @@
                             HorizontalAlignment="Center"
                             VerticalAlignment="Center">
                     <TextBlock Text="Window: "
+                               FontWeight="Bold"
                                FontSize="20"
                                FontFamily="Microsoft YaHei UI"/>
                     <TextBlock Text="{Binding ElementName=frmObject, Path=Content.Title}"
@@ -48,6 +50,7 @@
                             HorizontalAlignment="Center">
                     <TextBlock x:Name="txb_Time"
                                Text="Time"
+                               FontWeight="Bold"
                                FontSize="20" 
                                FontFamily="Microsoft YaHei UI"/>
                 </StackPanel>

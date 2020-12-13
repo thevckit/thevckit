@@ -1,17 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
-using System.Windows.Shapes;
+using WPF_0.ClassHelper;
 
 namespace WPF_0.View.Pages.GetAccess
 {
@@ -28,6 +19,21 @@ namespace WPF_0.View.Pages.GetAccess
         private void btn_Cancel_Click( object sender, RoutedEventArgs e )
         {
             NavigationService.GoBack();
+        }
+
+        private void btn_SendData_Click( object sender, RoutedEventArgs e )
+        {
+            try
+            {
+                HelperObj.SendEmail(txb_FirstName.Text, txb_LastName.Text, txb_Username.Text, txb_Email.Text);
+                MessageBox.Show( $"Password and login have been sent to the email address: {txb_Email.Text}", 
+                    "It`s Done!", MessageBoxButton.OK, MessageBoxImage.Information );
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show( ex.Message, ex.Source, MessageBoxButton.OK, MessageBoxImage.Error );
+            }
         }
     }
 }
