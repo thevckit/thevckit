@@ -25,9 +25,14 @@ namespace WPF_0.View.Pages.GetAccess
         {
             try
             {
-                HelperObj.SendEmail(txb_FirstName.Text, txb_LastName.Text, txb_Username.Text, txb_Email.Text);
-                MessageBox.Show( $"Password and login have been sent to the email address: {txb_Email.Text}", 
-                    "It`s Done!", MessageBoxButton.OK, MessageBoxImage.Information );
+                if (HelperObj.CheckEmail( txb_Email.Text ))
+                {
+                    HelperObj.SendEmail( txb_FirstName.Text, txb_LastName.Text, txb_Username.Text, txb_Email.Text );
+                    MessageBox.Show( $"Password and login have been sent to the email address: {txb_Email.Text}",
+                        "Message sending...", MessageBoxButton.OK, MessageBoxImage.Information );
+                }
+                else
+                    throw new Exception( "Invalid email format" );
 
             }
             catch (Exception ex)

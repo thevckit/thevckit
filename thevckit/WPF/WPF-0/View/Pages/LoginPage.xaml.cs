@@ -6,6 +6,7 @@ using System.Windows.Navigation;
 using System.Windows.Threading;
 using WPF_0.Context;
 using WPF_0.View.Pages.GetAccess;
+using WPF_0.ClassHelper;
 
 namespace WPF_0.View.Pages
 {
@@ -40,7 +41,7 @@ namespace WPF_0.View.Pages
             if (( DateTime.Now - Properties.Settings.Default.Ban ).Ticks > new TimeSpan( 0, 0, 10 ).Ticks)
             {
                 this.IsEnabled = true;
-                errorCount = 0;
+                errorCount = 3;
                 BlockTimer.Stop();
             }
 
