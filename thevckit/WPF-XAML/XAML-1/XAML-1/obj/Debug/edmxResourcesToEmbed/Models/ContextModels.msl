@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище thevckitModelContainer" CdmEntityContainer="thevckitEntities">
+    <EntitySetMapping Name="comboBoxSourses">
+      <EntityTypeMapping TypeName="thevckitModel.comboBoxSourse">
+        <MappingFragment StoreEntitySet="comboBoxSourse">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="filename" ColumnName="filename" />
+          <ScalarProperty Name="image" ColumnName="image" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

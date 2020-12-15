@@ -51,7 +51,6 @@ namespace WPF_0.ClassHelper
                 return false;
             else
                 return true;
-
         }
 
         public static bool CheckPassword( string password )
