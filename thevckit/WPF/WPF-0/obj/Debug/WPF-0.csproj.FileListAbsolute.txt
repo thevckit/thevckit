@@ -45,3 +45,30 @@ H:\C#\thevckit\thevckit\WPF\WPF-0\bin\Debug\EntityFramework.SqlServer.xml
 H:\C#\thevckit\thevckit\WPF\WPF-0\bin\Debug\ru\EntityFramework.resources.dll
 H:\C#\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0_Content.g.cs
 H:\C#\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.csproj.CopyComplete
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\bin\Debug\WPF-0.exe.config
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\bin\Debug\WPF-0.exe
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\bin\Debug\WPF-0.pdb
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\bin\Debug\EntityFramework.dll
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\bin\Debug\EntityFramework.SqlServer.dll
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\bin\Debug\EntityFramework.xml
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\bin\Debug\EntityFramework.SqlServer.xml
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\bin\Debug\ru\EntityFramework.resources.dll
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.csprojAssemblyReference.cache
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\View\Pages\GetAccess\GetAccessPage.g.cs
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\View\Windows\MainWindow.g.cs
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\View\Pages\LoginPage.g.cs
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\App.g.cs
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0_Content.g.cs
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0_MarkupCompile.cache
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0_MarkupCompile.lref
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\App.baml
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\View\Pages\GetAccess\GetAccessPage.baml
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\View\Windows\MainWindow.baml
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\View\Pages\LoginPage.baml
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.g.resources
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF_0.Properties.Resources.resources
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.csproj.GenerateResource.cache
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.csproj.CoreCompileInputs.cache
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.csproj.CopyComplete
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.exe
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-0\obj\Debug\WPF-0.pdb

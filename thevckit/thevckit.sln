@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WPF", "WPF", "{513EDB57-D0CA-48C9-B5DA-55F1E3C2231D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0", "0", "{513EDB57-D0CA-48C9-B5DA-55F1E3C2231D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WPF-0", "WPF-0", "{FF370695-FF3F-4B4C-BD78-CBB97D38AE41}"
 EndProject

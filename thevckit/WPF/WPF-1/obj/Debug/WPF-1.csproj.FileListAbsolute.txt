@@ -28,3 +28,20 @@ H:\C#\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.csproj.GenerateResource.cache
 H:\C#\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.csproj.CoreCompileInputs.cache
 H:\C#\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.exe
 H:\C#\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.pdb
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\bin\Debug\WPF-1.exe.config
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\bin\Debug\WPF-1.exe
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\bin\Debug\WPF-1.pdb
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.csprojAssemblyReference.cache
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\Views\Windows\MainWindow.g.cs
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\App.g.cs
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1_MarkupCompile.cache
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1_MarkupCompile.lref
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\Views\Windows\MainWindow.baml
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.g.resources
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF_1.Properties.Resources.resources
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.csproj.GenerateResource.cache
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.csproj.CoreCompileInputs.cache
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.exe
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.pdb
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\Views\Pages\FontSize.g.cs
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\Views\Pages\FontSize.baml

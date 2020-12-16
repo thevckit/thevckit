@@ -28,3 +28,18 @@ H:\C#\thevckit\thevckit\WPF\WPF-2\obj\Debug\WPF-2.csproj.GenerateResource.cache
 H:\C#\thevckit\thevckit\WPF\WPF-2\obj\Debug\WPF-2.csproj.CoreCompileInputs.cache
 H:\C#\thevckit\thevckit\WPF\WPF-2\obj\Debug\WPF-2.exe
 H:\C#\thevckit\thevckit\WPF\WPF-2\obj\Debug\WPF-2.pdb
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-2\bin\Debug\WPF-2.exe.config
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-2\bin\Debug\WPF-2.exe
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-2\bin\Debug\WPF-2.pdb
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-2\obj\Debug\WPF-2.csprojAssemblyReference.cache
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-2\obj\Debug\MainWindow.g.cs
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-2\obj\Debug\App.g.cs
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-2\obj\Debug\WPF-2_MarkupCompile.cache
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-2\obj\Debug\WPF-2_MarkupCompile.lref
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-2\obj\Debug\MainWindow.baml
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-2\obj\Debug\WPF-2.g.resources
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-2\obj\Debug\WPF_2.Properties.Resources.resources
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-2\obj\Debug\WPF-2.csproj.GenerateResource.cache
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-2\obj\Debug\WPF-2.csproj.CoreCompileInputs.cache
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-2\obj\Debug\WPF-2.exe
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-2\obj\Debug\WPF-2.pdb
