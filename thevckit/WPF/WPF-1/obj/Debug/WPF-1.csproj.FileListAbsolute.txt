@@ -45,3 +45,5 @@ A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.exe
 A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\WPF-1.pdb
 A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\Views\Pages\FontSize.g.cs
 A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\Views\Pages\FontSize.baml
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\Views\Pages\TextBox\TextBoxStyle.g.cs
+A:\Programming\C#\My Doom\thevckit\thevckit\WPF\WPF-1\obj\Debug\Views\Pages\TextBox\TextBoxStyle.baml

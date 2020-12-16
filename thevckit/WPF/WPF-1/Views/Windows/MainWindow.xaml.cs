@@ -1,5 +1,6 @@
 ﻿using System.Windows;
 using WPF_1.Views.Pages;
+using WPF_1.Views.Pages.TextBox;
 
 namespace WPF_1
 {
@@ -11,7 +12,7 @@ namespace WPF_1
         public MainWindow()
         {
             InitializeComponent();
-            mainFrame.Navigate(new FontSize());
+            mainFrame.Navigate(new TextBoxStyle());
         }
     }
 }
