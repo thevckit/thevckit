@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using XAML_2.Views.Pages;
 
 namespace XAML_2
 {
@@ -23,6 +24,7 @@ namespace XAML_2
         public MainWindow( )
         {
             InitializeComponent();
+            mainFrame.Navigate( new LoginPage() );
         }
     }
 }
